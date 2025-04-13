@@ -28,7 +28,7 @@ This project tracks **yellow-colored objects** in real-time using your webcam. I
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yellow-object-tracking.git
+   git clone https://github.com/Abdelrahman-Awd/yellow-object-tracking.git
    cd yellow-object-tracking
    ```
 2. Install dependencies:
